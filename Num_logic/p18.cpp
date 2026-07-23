@@ -17,7 +17,7 @@ int main()
             sum=sum+i;
         }
     }
-    if(num<0 || num!=sum)
+    if(num<0 || num>sum)
     {
         cout<<"The given number is not a Abundant number"<<endl;
     }
