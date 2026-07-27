@@ -28,7 +28,7 @@ int main()
    else
    {
     sum=pow(x,num)/fact(num);
-   cout<<"The Answer of "<<x<<"^"<<num<<"/"<<num<<"! is = "<<sum<<endl;
+   cout<<"The Answer of "<<x<<"^"<<num<<"/"<<num<<"!) is = "<<sum<<endl;
    }
    return 0;
 
