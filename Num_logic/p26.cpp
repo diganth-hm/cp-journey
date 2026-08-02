@@ -1,3 +1,4 @@
+//A Disarium number is an integer where the sum of its digits, each raised to the power of their respective position (counted from left to right, starting at 1), equals the number itself
 #include<iostream>
 #include<cmath>
 using namespace std;
